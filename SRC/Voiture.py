@@ -33,9 +33,6 @@ class Catalogue:
             marque.afficher_voitures()
             print()
 
-from voiture import Voiture
-from marque import Marque
-from catalogue import Catalogue
 
 # Création des voitures de luxe
 voiture1 = Voiture(2022, "Ferrari 488 GTB", 45, "Essence")
